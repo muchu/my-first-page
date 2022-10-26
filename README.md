@@ -6,9 +6,9 @@ hello everyone! this is muchu speaking!
 
 
 ### Muchu
--musical 
+-musical  
 
--Ginshin
+-Ginshin  
 
 
 
